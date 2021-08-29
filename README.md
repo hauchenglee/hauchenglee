@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yubuki Lee!](https://www.linkedin.com/in/hauchenglee/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yubuki Lee!](https://www.linkedin.com/in/hauchenglee/){:target="_blank"} 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/hauchenglee/">
+<a href="https://www.linkedin.com/in/hauchenglee/" target="_blank">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://www.facebook.com/hauchenglee/">
+<a href="https://www.facebook.com/hauchenglee/" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="mailto:hauchenglee@gmail.com">
+<a href="mailto:hauchenglee@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UChzk9lcn5fqorE5m03PFPLg">
+<a href="https://www.youtube.com/channel/UChzk9lcn5fqorE5m03PFPLg" target="_blank">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 ### 📕 Blog Posts
-- [My Github Pages - About Me](https://www.hauchenglee.com/about.html)
-- [Diary - Mediocre](https://www.hauchenglee.com/blog/2020/10/17/diary-mediocre.html)
+- [My Github Pages - About Me](https://www.hauchenglee.com/about.html){:target="_blank"}
+- [Diary - Mediocre](https://www.hauchenglee.com/diary-mediocre){:target="_blank"}
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hauchenglee.hauchenglee)
