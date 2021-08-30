@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yubuki Lee!](https://www.linkedin.com/in/hauchenglee/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Yubuki Lee!](https://www.linkedin.com/in/hauchenglee/)
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 ### 📕 Blog Posts
-- [My Github Pages - About Me](https://www.hauchenglee.com/about.html)
-- [Diary - Mediocre](https://www.hauchenglee.com/diary-mediocre/)
+- [My Github Pages - About Me](https://www.hauchenglee.com/about)
+- [Diary - Mediocre](https://www.hauchenglee.com/blog/2020/10/17/diary-mediocre.html)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hauchenglee.hauchenglee)
