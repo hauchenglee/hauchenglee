@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 
 
 ### 📕 Blog Posts
-- [My Github Pages - About Me](https://www.hauchenglee.com/about)
-- [Diary - Mediocre](https://www.hauchenglee.com/blog/2020/10/17/diary-mediocre.html)
+- [My Github Pages - About Me](https://hauchenglee.github.io/about)
+- [Diary - Mediocre](https://hauchenglee.github.io/blog/2020/10/17/diary-mediocre.html)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hauchenglee.hauchenglee)
